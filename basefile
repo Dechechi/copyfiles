@@ -1,1 +1,32 @@
-//
+[
+    {
+        "CONFIABILIDADE": "89",
+        "M1": "S",
+        "M2": "S",
+        "M3": "S",
+        "M4": "S",
+        "M5": "N",
+        "VALIDADE": "0",
+        "M6": "S",
+        "IDT_LOTE": "188",
+        "MET_COD_CTT": "9",
+        "NEW_RECORD": "true",
+        "COD_STS_CTT": "1",
+        "METRICA": "7",
+        "INDEX": "0",
+        "NUM_CPF_CNPJ": "00084070349596",
+        "CONDICAO": "COD_TIP_CTAT=2",
+        "DTH_PROC_ORGM": "2017-12-05 00:00:00",
+        "COD_TPO_CTT": "2",
+        "COD_ORG": "25",
+        "COD_DDD": "46",
+        "DSC_STS_CTT": "Ativo",
+        "COD_PSS_FIS": "0008407034959625",
+        "DSC_TPO_CTT": "Celular",
+        "COD_OPER": "BTCPORTA",
+        "CONTEXTO": "telefone",
+        "COD_FONT": "77",
+        "DTH_INCL_REG": "2017-12-05 00:00:00",
+        "DSC_CTT": "46 991178073"
+    }
+]
